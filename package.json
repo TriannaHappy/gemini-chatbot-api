@@ -1,0 +1,22 @@
+{
+  "name": "gemini-chatbot-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TriannaHappy/gemini-chatbot-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TriannaHappy/gemini-chatbot-api/issues"
+  },
+  "homepage": "https://github.com/TriannaHappy/gemini-chatbot-api#readme"
+}
