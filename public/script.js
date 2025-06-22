@@ -6,6 +6,7 @@ form.addEventListener('submit', async function (e) {
   e.preventDefault();
 
   const userMessage = input.value.trim();
+  
   if (!userMessage) return;
 
   appendMessage('user', userMessage); // Display user's message
